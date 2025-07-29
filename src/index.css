@@ -1,0 +1,24 @@
+/* 
+A9B5DF
+
+#68507B LIGHT
+#E8D8F2   MORE LIGHT 
+#58397A DARK PURP
+7886C7
+#2D336B */
+@import "tailwindcss";
+/* src/index.css */
+
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
