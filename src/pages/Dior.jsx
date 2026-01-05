@@ -1,7 +1,7 @@
 
 import { useContext, useState } from 'react';
 import { Link } from 'react-router-dom';
-import dior_banner from '../assets/dior_banner.jpeg';
+import dior_banner from '../assets/Dior_banner.jpeg';
 import { products } from '../data/product';
 import { CartContext } from '../context/CartContext';
 import { FaPlus, FaCheck } from 'react-icons/fa';
